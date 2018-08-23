@@ -94,6 +94,7 @@ Developers inside and outside of Facebook have given talks about GraphQL at conf
 - [All Talks from GraphQL Europe](https://www.youtube.com/playlist?list=PLn2e1F9Rfr6n_WFm9fPE-_wYPrYvSTySt) - Lee Byron, Sashko Stubailo, Dan Schafer, Johannes Schickling and many more
 - [Learning GraphQL with React and Relay](https://www.packtpub.com/application-development/learning-graphql-react-and-relay-video) by Divyendu Singh
 - [Hands-on GraphQL for Better RESTful Web Services (Video)](https://www.packtpub.com/application-development/hands-graphql-better-restful-web-services-video) by Ashwin Hegde
+- [Hands-on Application Building with GraphQL (Video)](https://www.packtpub.com/web-development/hands-application-building-graphql-video) by Robert Hostlowsky
 
 ## Books
 
